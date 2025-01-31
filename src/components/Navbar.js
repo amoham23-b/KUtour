@@ -2,7 +2,7 @@
  import { Link } from 'react-router-dom';
 import './Navbar.css';
 import { Button } from './Button';
-import kulogo from '/Users/abdulahimohamed/Desktop/projects/react/KUTour/src/kulogo.svg';
+import kulogo from "./kulogo.svg"
 
  function Navbar() {
     const [click, setClick] = useState(false);
