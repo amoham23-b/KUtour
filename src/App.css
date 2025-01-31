@@ -17,7 +17,7 @@
 }
 
 .services {
-  background-image: url('/Users/abdulahimohamed/Desktop/projects/react/my-app/public/images/kudorm.jpg');
+  background-image: url('/Users/abdulahimohamed/Desktop/projects/react/KUtour/public/images/kudorm.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -26,7 +26,7 @@
 }
 
 .tourtimes {
-  background-image: url('/Users/abdulahimohamed/Desktop/projects/react/my-app/public/images/kuwalk.jpg');
+  background-image: url('/Users/abdulahimohamed/Desktop/projects/react/KUtour/public/images/kuwalk.jpg');
   background-position: center;
   background-size: fill;
   background-repeat: no-repeat;
@@ -35,7 +35,7 @@
 }
 
 .sign-up {
-  background-image: url('/Users/abdulahimohamed/Desktop/projects/react/my-app/public/images/Kutr.jpg');
+  background-image: url('/Users/abdulahimohamed/Desktop/projects/react/KUtour/public/images/Kutr.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
