@@ -1,6 +1,3 @@
-Here’s an updated and cleaner version of your README for the **KUtour** React website:
-
-```markdown
 # KUtour 🚶‍♂️🌍
 
 Welcome to **KUtour**, a personal project created with React. This project showcases my passion for web development and serves as a platform to explore, learn, and enhance my skills in building modern, responsive, and dynamic web applications.  
